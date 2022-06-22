@@ -31,7 +31,7 @@ ml-metrics==0.1.4
 networkx==2.4
 nodeenv==1.4.0
 nptyping==1.1.0
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.2.1
 pandas==1.0.4
